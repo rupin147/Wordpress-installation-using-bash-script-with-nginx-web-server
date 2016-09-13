@@ -11,7 +11,7 @@ Assumption before Running the sript:-
   - Default password of database for new user other then root user is test123.
   - Error logs and setup logs are generated in /tmp.
 
-After successfully execution of script is you can also access using  http://<internal ip address>/wp-admin/install.php 
+After successfully execution of script,you can also access using  http://<internal ip address>/wp-admin/install.php 
 if access from remote host.
 
 
