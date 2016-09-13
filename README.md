@@ -14,5 +14,5 @@ Assumption before Running the sript:-
 After successfully execution of script,you can also access using  http://<internal ip address>/wp-admin/install.php 
 if access from remote host.
 
-check out the screenshot - wiki
+check out for the screenshot - wiki
 link - https://github.com/rupin147/Wordpress-installation-using-bash-script-with-nginx-web-server/wiki
